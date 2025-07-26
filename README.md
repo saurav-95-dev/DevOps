@@ -19,20 +19,6 @@ This Project is meant to handle and detect the tickets of the e-courts system(MV
    
 
 #### TECHNOLOGIES :
-HTML5 , CSS , Javascript , React , Firebase google Authentication , Firebase-Firestore , React Calender Library
-
-
-
-Priority -> Select issues by date + UI-responsivenes.
-
-
-
--> System Flow : 
-
-
-
-   
-
 
 
 
