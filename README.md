@@ -5,16 +5,6 @@
 
 #### DESCRIPTION : 
 
-   
-
-#### TECHNOLOGIES :
-
-
-
-
-
-
-
 
 
 
